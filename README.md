@@ -72,6 +72,6 @@ MAIL_PORT=2525
 MAIL_USERNAME=your-mail-username
 MAIL_PASSWORD=your-mail-password
 MAIL_ENCRYPTION=tls           # Depending on your provider
-MAIL_FROM_ADDRESS=admin@support-system.com
-MAIL_FROM_NAME="Support System"
+MAIL_FROM_ADDRESS=your-email
+MAIL_FROM_NAME=your-email-from-name
 ```
